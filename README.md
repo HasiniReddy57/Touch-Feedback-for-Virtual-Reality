@@ -79,11 +79,11 @@ This application focuses on improving user engagement and immersion by deliverin
    git clone https://github.com/yourusername/TouchFeedbackVR.git
 2. Open the project in Unity.
 3. Make sure to install required packages:
- - XR Interaction Toolkit
- - Oculus Integration SDK
+  - XR Interaction Toolkit
+  - Oculus Integration SDK
 4. Set up the backend environment on AWS:
- - Configure S3 and DynamoDB for data storage.
- - Deploy the backend server using Node.js on AWS Elastic Beanstalk.
+  - Configure S3 and DynamoDB for data storage.
+  - Deploy the backend server using Node.js on AWS Elastic Beanstalk.
 5. Build and deploy the project to Meta Quest 2.
 
 ## Oculus SDK Setup
