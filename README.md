@@ -104,7 +104,7 @@ This application focuses on improving user engagement and immersion by deliverin
 2. Set up S3 for real-time data storage and DynamoDB for batch data processing.
 3. Ensure HTTPS endpoints are secured for communication between Meta Quest 2 and the server.
 
-## Presentation Video
+## Demonstration Video
 Check out this demonstration video to see Touch Feedback for Virtual Reality in action!
 
 [![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality/blob/main/Assets/Spinoverse.png)](https://drive.google.com/file/d/1NQIL3MsY1MfwYd5NgHR7iM7MOYJ7xqmY/view)
