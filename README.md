@@ -118,6 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
 
 ## Acknowledgments
 - [UCI Samueli School of Engineering](https://engineering.uci.edu/home) for their support and collaboration.
-- Meta for providing Oculus hardware and development kits.
-- AWS for their reliable cloud infrastructure.
-
+- [Meta](https://about.meta.com/) for providing Oculus hardware and development kits.
+- [AWS](https://www.google.com/aclk?sa=l&ai=DChcSEwiC3_a09YaJAxUCCK0GHWWHFI0YABAAGgJwdg&co=1&ase=2&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL1xfj7UZ7MiVMtsqButaWoPIRcqDudlSx_0xn3HWn261TUhApYfkPRoCrroQAvD_BwE&sig=AOD64_0yvIgd667mtxpPyuHrs0Myv-_xag&q&nis=4&adurl&ved=2ahUKEwi1lvC09YaJAxX-JEQIHU0zKF0Q0Qx6BAgIEAE) for their reliable cloud infrastructure.
