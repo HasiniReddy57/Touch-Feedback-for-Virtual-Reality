@@ -15,7 +15,7 @@ This application focuses on improving user engagement and immersion by deliverin
 
 ## Project Structure
 
-```bash
+```ruby
 .
 ├── Assets
 │   ├── Oculus
