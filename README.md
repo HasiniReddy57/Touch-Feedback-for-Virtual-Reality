@@ -104,6 +104,13 @@ This application focuses on improving user engagement and immersion by deliverin
 2. Set up S3 for real-time data storage and DynamoDB for batch data processing.
 3. Ensure HTTPS endpoints are secured for communication between Meta Quest 2 and the server.
 
+## Presentation Video
+Check out this demonstration video to see Touch Feedback for Virtual Reality in action!
+
+[![Touch Feedback for Virtual Reality](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
+
+In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
+
 ## Contributing
 **Contributions are welcome! Please follow these steps:**
 
