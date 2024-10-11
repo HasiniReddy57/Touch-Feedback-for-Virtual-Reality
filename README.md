@@ -87,7 +87,7 @@ This application focuses on improving user engagement and immersion by deliverin
 5. Build and deploy the project to Meta Quest 2.
 
 ## Oculus SDK Setup
-To integrate the Oculus SDK:
+**To integrate the Oculus SDK:**
 
 1. Download and install the Oculus Integration package into Unity.
 2. Ensure the OculusLoader is configured in the XR Management settings under XR -> Loaders.
@@ -105,19 +105,19 @@ To integrate the Oculus SDK:
 3. Ensure HTTPS endpoints are secured for communication between Meta Quest 2 and the server.
 
 ## Contributing
-Contributions are welcome! Please follow these steps:
+**Contributions are welcome! Please follow these steps:**
 
 1. Fork the repository.
-2. Create a feature branch (git checkout -b feature/AmazingFeature).
-3. Commit your changes (git commit -m 'Add some AmazingFeature').
-4. Push to the branch (git push origin feature/AmazingFeature).
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
 
 ## Acknowledgments
-- UCI Samueli School of Engineering for their support and collaboration.
+- [UCI Samueli School of Engineering](https://engineering.uci.edu/home) for their support and collaboration.
 - Meta for providing Oculus hardware and development kits.
 - AWS for their reliable cloud infrastructure.
 
