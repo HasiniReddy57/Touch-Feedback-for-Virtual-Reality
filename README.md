@@ -76,7 +76,7 @@ This application focuses on improving user engagement and immersion by deliverin
 ## Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TouchFeedbackVR.git
+   git clone https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality.git
 2. Open the project in Unity.
 3. Make sure to install required packages:
   - XR Interaction Toolkit
