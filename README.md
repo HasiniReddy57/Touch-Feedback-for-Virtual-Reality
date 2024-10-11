@@ -107,7 +107,7 @@ This application focuses on improving user engagement and immersion by deliverin
 ## Presentation Video
 Check out this demonstration video to see Touch Feedback for Virtual Reality in action!
 
-[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality/blob/main/Assets/Spinoverse%20Application%20Prototype.png)](https://drive.google.com/file/d/1NQIL3MsY1MfwYd5NgHR7iM7MOYJ7xqmY/view)
+[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality/blob/main/Assets/Spinoverse.png)](https://drive.google.com/file/d/1NQIL3MsY1MfwYd5NgHR7iM7MOYJ7xqmY/view)
 
 In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
 
